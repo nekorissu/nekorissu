@@ -1,6 +1,6 @@
 # Hello, visitor!
 ## Welcome to my [GitHub](https://github.com) profile.
-====================
+-------
 ## 💬 About me  
 - My name is **Daniil**.
 - I'm from a **Russia**.
@@ -26,11 +26,13 @@
 ![mysql](https://img.shields.io/static/v1?label=&message=MySQL&color=191919&style=for-the-badge&logo=MySQL)
 ![postgres](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=191919&style=for-the-badge&logo=postgresql&logoColor=336791)
 
-### Languages
+### Languages | Frameworks
 ![javascript](https://img.shields.io/static/v1?label=&message=JavaScript&color=191919&style=for-the-badge&logo=JavaScript)
 ![typescript](https://img.shields.io/static/v1?label=&message=TypeScript&color=191919&style=for-the-badge&logo=TypeScript&logoColor=007ACC)
 ![python](https://img.shields.io/static/v1?label=&message=Python&color=191919&style=for-the-badge&logo=Python)
 ![csharp](https://img.shields.io/static/v1?label=&message=C%23&color=191919&style=for-the-badge&logo=C%20Sharp&logoColor=239120)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KotOdinochka&theme=dark)
+
 
 
 

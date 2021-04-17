@@ -4,7 +4,7 @@
 ## 💬 About me  
 - My name is **Daniil**.
 - I'm from a **Russia**.
-- I am **14** years old
+- I am **15** years old
 
 ## My Socials
 [![discord](https://img.shields.io/static/v1?label=&message=DISCORD&color=191919&style=for-the-badge&logo=discord)](https://discordapp.com/users/351030467119808514)

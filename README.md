@@ -4,7 +4,6 @@
 ## 💬 About me  
 - My name is **Daniil**.
 - I'm from a **Russia**.
-- 
 ## My Socials
 [![discord](https://img.shields.io/static/v1?label=&message=DISCORD&color=191919&style=for-the-badge&logo=discord)](https://discordapp.com/users/351030467119808514)
 [![github](https://img.shields.io/static/v1?label=&message=github&color=191919&style=for-the-badge&logo=github)](https://github.com/KotOdinochka)

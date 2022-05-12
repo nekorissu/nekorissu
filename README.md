@@ -1,3 +1,5 @@
+![:nyako-git](https://count.getloli.com/get/@:nyako-git?theme=rule34)
+
 # Hello, visitor!
 ## Welcome to my [GitHub](https://github.com) profile.
 -------
